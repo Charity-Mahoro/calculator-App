@@ -6,8 +6,11 @@ including component-based architecture, state management, and event handling.
 FEATURES OF THIS APPLICATION 
 
 Basic Arithmetic Operations: The calculator supports addition, subtraction, multiplication, and division.
+
 User-Friendly Interface: The UI is designed to be intuitive, with clearly labeled buttons for digits and operations.
+
 Responsive Design: The calculator is responsive, ensuring usability across different devices and screen sizes.
+
 Real-Time Calculation: As users input numbers and operations, the calculation is displayed in real-time.
 
 
