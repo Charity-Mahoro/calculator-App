@@ -1,6 +1,6 @@
 Simple Calculator using Flutter
 
-This project is a simple calculator application built using React. The primary objective of this project is to demonstrate the fundamentals of React,
+This project is a simple calculator application built using Flutter. The primary objective of this project is to demonstrate the fundamentals of Flutter,
 including component-based architecture, state management, and event handling.
 
 FEATURES OF THIS APPLICATION 
